@@ -1,6 +1,7 @@
 # 33yun
 
-> A Vue.js project
+> A Vue.js project from aliyun
+
 
 ## Build Setup
 

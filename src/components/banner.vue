@@ -2,7 +2,7 @@
     <div class="banner">
         <div class="contaner">
         	<el-carousel height="420px">
-			    <el-carousel-item v-for="item in dataList" :key="item">
+			    <el-carousel-item v-for="item in dataList" :key="5">
 			        <div class="bannerL">
 			        	<h3>{{item.name}}</h3>
 				        <p>{{item.info}}</p>

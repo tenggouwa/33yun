@@ -287,6 +287,7 @@ export default{
                         z-index: 800;
                         position: fixed;
                         width: 200px;
+                        right: 152px;
                         /*height: 120px;*/
                         margin: -17px 0 0 35px;
                         background: #272b2f;
